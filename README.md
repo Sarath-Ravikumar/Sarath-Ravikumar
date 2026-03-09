@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Sarath-Ravikumar
 - 👀 I’m interested in Sports , Games and lil bit of coding
-- 🌱 I’m currently learning Data Science
+- 🌱 I have learnt a bit of Machine Learning and data Science.
 - 💞️ I’m looking to collaborate on Machine Learning Projects
 
 
